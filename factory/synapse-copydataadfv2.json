@@ -1,0 +1,9 @@
+{
+	"name": "synapse-copydataadfv2",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d05ebe6-2a5e-4002-aa22-71e5ea408090",
+		"tenantId": "b5f97d77-c517-453f-a576-ef17298b0c82"
+	}
+}
